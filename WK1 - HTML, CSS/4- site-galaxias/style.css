@@ -1,0 +1,34 @@
+li {
+  color: rgb(34, 97, 179);
+}
+h1 {
+  color: rgb(143, 73, 143);
+  font-size: 50px;
+  /*
+  border-color: purple;
+  border-width: 5px;
+  border-style: dashed;
+  */
+  border: 5px dashed purple;
+}
+h3 {
+  color: #0000aa;
+}
+body {
+  background-color: rgb(241, 241, 241);
+  /*
+  background-image: url("backimg.avif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  */
+}
+div {
+  border: 2px solid;
+}
+.red-text {
+  color: #ff0000;
+}
+#desc-text {
+  font-size: 18px;
+  color: #bc3dab;
+}
