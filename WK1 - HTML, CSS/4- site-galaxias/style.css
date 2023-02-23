@@ -13,6 +13,7 @@ h1 {
 }
 h3 {
   color: #0000aa;
+  font-family: "Roboto Mono", monospace;
 }
 body {
   background-color: rgb(241, 241, 241);
